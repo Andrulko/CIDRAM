@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: Portuguese language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "Português"
+---
+Local Name: "Engliss"
 Text Direction: "ltr"
 IntegerRule: "int2Type4"
 FractionRule: "int1"
-
-Error_MissingRequire: "Arquivos necessários estão faltando! Não pode continuar!"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "Não é possível gravar para o cache! Por favor verifique suas permissões CHMOD!"
-MoreInfo: "Para maiores informações:"
+MoreInfo: "For more information"
 PrivacyPolicy: "Política de Privacidade"
 ReasonMessage_BadIP: "O seu acesso a esta página foi negado porque você tentou acessar a página usando um endereço IP inválido."
 ReasonMessage_Banned: "O seu acesso a esta página foi negado devido ao mau comportamento anterior do seu endereço IP."
@@ -39,7 +26,7 @@ Short_Malware: "Malware"
 Short_Proxy: "Proxy"
 Short_RL: "Taxa limitada"
 Short_Spam: "Risco de spam"
-Support_Email: "Se você acredita que isso é um erro, ou a procurar assistência, {ClickHereLink} para enviar um e-mail ticket de suporte para o webmaster deste site (por favor, não alterar o preâmbulo ou linha de assunto do e-mail)."
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "Se você acredita que isso é um erro, envie um e-mail para {EmailAddr} para procurar ajuda."
 click_here: "clique aqui"
 denied: "Acesso Negado!"
@@ -68,4 +55,4 @@ recaptcha_message: "A fim de recuperar o acesso a esta página, por favor preenc
 recaptcha_message_invisible: "Para a maioria dos usuários, a página deve recarregar e restaurar o acesso normal. Em alguns casos, você pode ser obrigado a completar um desafio CAPTCHA."
 recaptcha_passed: "Sucesso!"
 recaptcha_submit: "Enviar"
-request_removal: "(Se você acredita que isso é um erro, <a href="%s">clique aqui</a> para solicitar a remoção)."
+request_removal: "(Se você acredita que isso é um erro, <a href=\"%s\">clique aqui</a> para solicitar a remoção)."

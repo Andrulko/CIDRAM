@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: Arabic language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "العربية"
+---
+Local Name: "Engliss"
 Text Direction: "rtl"
 IntegerRule: "int6Type1"
 FractionRule: "int1"
-
-Error_MissingRequire: "الملفات المطلوبة مفقودة! لا يمكن الاستمرار!"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "لا تملك تصريح للقيام بهذا، يرجى التأكد من تصاريح الملفات"
-MoreInfo: "للمزيد من المعلومات:"
+MoreInfo: "For more information"
 PrivacyPolicy: "سياسة الخصوصية"
 ReasonMessage_BadIP: "عنوان ال IP غير صالح."
 ReasonMessage_Banned: "تم حجب الوصول من قبل صاحب الموقع."
@@ -39,7 +26,7 @@ Short_Malware: "البرمجيات الخبيثة"
 Short_Proxy: "خدمة بروكسي"
 Short_RL: "معدل محدود"
 Short_Spam: "خطر البريد المزعج"
-Support_Email: "لطلب المساعدة أو لأي إستفسار يمكنك التواصل معنا عبر البريد الإلكتروني ({ClickHereLink})."
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "لطلب المساعدة أو لأي إستفسار يمكنك التواصل معنا عبر البريد الإلكتروني ({EmailAddr})."
 click_here: "أنقر هنا"
 denied: "تم رفض الوصول!"
@@ -68,4 +55,4 @@ recaptcha_message: "من أجل استعادة الوصول إلى هذه الص
 recaptcha_message_invisible: "بالنسبة إلى معظم المستخدمين، يجب أن تقوم الصفحة بتحديث واستعادة الوصول العادي. في بعض الحالات، قد يطلب منك إكمال تحدي CAPTCHA."
 recaptcha_passed: "نجحت!"
 recaptcha_submit: "الإرسال"
-request_removal: "(إذا كنت تعتقد أن هذا خطأ، <a href="%s">فانقر هنا</a> لطلب الإزالة)."
+request_removal: "(إذا كنت تعتقد أن هذا خطأ، <a href=\"%s\">فانقر هنا</a> لطلب الإزالة)."

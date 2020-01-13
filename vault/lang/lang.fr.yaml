@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: French language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "Français"
+---
+Local Name: "Engliss"
 Text Direction: "ltr"
 IntegerRule: "int2Type3"
 FractionRule: "fraction2Type1"
-
-Error_MissingRequire: "Les fichiers requis sont manquants ! Ne peut pas continuer !"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "Ne peux pas d'écrire dans le cache ! S'il vous plaît vérifier votre permissions CHMOD !"
-MoreInfo: "Pour plus d'informations :"
+MoreInfo: "For more information"
 PrivacyPolicy: "Politique de Confidentialité"
 ReasonMessage_BadIP: "Votre accès à cette page a été refusée parce que vous avez tenté d'accéder à cette page en utilisant un invalide IP adresse."
 ReasonMessage_Banned: "Votre accès à cette page a été refusée en raison du mauvais comportement précédent de votre adresse IP."
@@ -39,7 +26,7 @@ Short_Malware: "Logiciels malveillants"
 Short_Proxy: "Proxy"
 Short_RL: "Débit limité"
 Short_Spam: "Spam risque"
-Support_Email: "Si vous croyez que cela est dans l'erreur, ou pour demander de l'aide, {ClickHereLink} pour envoyer un e-mail ticket de support au webmaster de ce site (s'il vous plaît, ne pas modifier le préambule ou la ligne d'objet de l'e-mail)."
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "Si vous croyez que cela est dans l'erreur, envoyer un e-mail à {EmailAddr} pour obtenir de l'aide."
 click_here: "cliquez ici"
 denied: "Accès Refusé !"
@@ -68,4 +55,4 @@ recaptcha_message: "Afin de retrouver l'accès à cette page, s'il vous plaît c
 recaptcha_message_invisible: "Pour la plupart des utilisateurs, la page doit recharger et restaurer l'accès normal. Dans certains cas, vous devrez peut-être compléter un défi CAPTCHA."
 recaptcha_passed: "Passé !"
 recaptcha_submit: "Envoi"
-request_removal: "(Si vous pensez que c'est une erreur, <a href="%s">cliquez ici</a> pour demander la suppression)."
+request_removal: "(Si vous pensez que c'est une erreur, <a href=\"%s\">cliquez ici</a> pour demander la suppression)."

@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: Indonesian language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "Bahasa Indonesia"
+---
+Local Name: "Engliss"
 Text Direction: "ltr"
 IntegerRule: "int1"
 FractionRule: "int1"
-
-Error_MissingRequire: "File yang diperlukan hilang! Tidak bisa melanjutkan!"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "Tidak dapat menulis ke cache! Silahkan periksa hak akses file CHMOD Anda!"
-MoreInfo: "Untuk informasi lebih lanjut:"
+MoreInfo: "For more information"
 PrivacyPolicy: "Kebijakan Privasi"
 ReasonMessage_BadIP: "Akses Anda ke halaman ini ditolak karena Anda mencoba untuk mengakses halaman ini menggunakan alamat IP yang tidak valid."
 ReasonMessage_Banned: "Akses Anda ke halaman ini ditolak karena perilaku buruk sebelumnya dari alamat IP Anda."
@@ -39,7 +26,7 @@ Short_Malware: "Malware"
 Short_Proxy: "Proxy"
 Short_RL: "Laju terbatas"
 Short_Spam: "Risiko spam"
-Support_Email: "Jika Anda yakin ini adalah kesalahan, atau untuk mencari bantuan, {ClickHereLink} untuk mengirim tiket dukungan email ke webmaster dari situs ini (silahkan jangan mengubah pembukaan atau baris subjek email)."
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "Jika Anda yakin ini adalah kesalahan, kirim email ke {EmailAddr} untuk meminta bantuan."
 click_here: "klik disini"
 denied: "Akses Ditolak!"
@@ -68,4 +55,4 @@ recaptcha_message: "Dalam rangka untuk mendapatkan kembali akses ke halaman ini,
 recaptcha_message_invisible: "Bagi kebanyakan pengguna, halaman harus menyegarkan dan mengembalikan akses normal. Dalam beberapa kasus, Anda mungkin diminta untuk menyelesaikan tantangan CAPTCHA."
 recaptcha_passed: "Lulus!"
 recaptcha_submit: "Mengirim"
-request_removal: "(Jika Anda yakin ini adalah kesalahan, <a href="%s">klik disini</a> untuk meminta penghapusan)."
+request_removal: "(Jika Anda yakin ini adalah kesalahan, <a href=\"%s\">klik disini</a> untuk meminta penghapusan)."

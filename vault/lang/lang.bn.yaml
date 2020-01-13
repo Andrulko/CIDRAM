@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: Bangla language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "বাংলা"
+---
+Local Name: "Engliss"
 Text Direction: "ltr"
 IntegerRule: "int2Type3"
 FractionRule: "fraction2Type2"
-
-Error_MissingRequire: "প্রয়োজনীয় ফাইলগুলি অনুপস্থিত! চালিয়ে যেতে পারবেন না!"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "ক্যাশে লিখতে অক্ষম! আপনার CHMOD ফাইল অনুমতি চেক করুন!"
-MoreInfo: "আরও তথ্যের জন্য:"
+MoreInfo: "For more information"
 PrivacyPolicy: "গোপনীয়তা নীতি"
 ReasonMessage_BadIP: "এই পৃষ্ঠাটিতে আপনার প্রবেশাধিকার অস্বীকার করা হয়েছে কারণ আপনি একটি অবৈধ IP ঠিকানা ব্যবহার করে এই পৃষ্ঠাটি অ্যাক্সেস করার চেষ্টা করেছেন।"
 ReasonMessage_Banned: "আপনার IP ঠিকানা থেকে আগের খারাপ আচরণের কারণে এই পৃষ্ঠাটিতে আপনার অ্যাক্সেস অস্বীকৃত হয়েছে।"
@@ -39,7 +26,7 @@ Short_Malware: "ম্যালওয়ারের"
 Short_Proxy: "প্রক্সি"
 Short_RL: "হার সীমিত"
 Short_Spam: "স্প্যাম ঝুঁকি"
-Support_Email: "যদি এটি একটি ত্রুটি, বা সহায়তার সন্ধান, {ClickHereLink} এই ওয়েবসাইটের ওয়েবমাস্টার একটি ইমেইল সমর্থন টিকেট পাঠাতে (দয়া করে ইমেলের প্রস্তাবনা বা বিষয় লাইন পরিবর্তন করবেন না)।"
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "আপনি যদি বিশ্বাস করেন এটি একটি ত্রুটি, তাহলে সাহায্যের জন্য {EmailAddr} এ একটি ইমেল পাঠান।"
 click_here: "এখানে ক্লিক করুন"
 denied: "প্রবেশাধিকার অস্বীকার!"
@@ -68,4 +55,4 @@ recaptcha_message: "এই পৃষ্ঠায় অ্যাক্সেস 
 recaptcha_message_invisible: "বেশিরভাগ ব্যবহারকারীর জন্য, পৃষ্ঠাটি স্বাভাবিক অ্যাক্সেস রিফ্রেশ এবং পুনঃস্থাপন করা উচিত। কিছু ক্ষেত্রে, আপনি একটি CAPTCHA চ্যালেঞ্জ সম্পূর্ণ করতে প্রয়োজন হতে পারে।"
 recaptcha_passed: "পাস!"
 recaptcha_submit: "জমা দিন"
-request_removal: "(যদি আপনি বিশ্বাস করেন যে এটি একটি ভুল, অপসারণের অনুরোধ করতে <a href="%s">এখানে ক্লিক</a> করুন)।"
+request_removal: "(যদি আপনি বিশ্বাস করেন যে এটি একটি ভুল, অপসারণের অনুরোধ করতে <a href=\"%s\">এখানে ক্লিক</a> করুন)।"

@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: Korean language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "한국어"
+---
+Local Name: "Engliss"
 Text Direction: "ltr"
 IntegerRule: "int1"
 FractionRule: "int1"
-
-Error_MissingRequire: "필수 파일이 없습니다! 계속할 수 없다!"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "캐시는 쓰기 불가입니다! 당신의 CHMOD를 확인하십시오!"
-MoreInfo: "자세한 내용은 :"
+MoreInfo: "For more information"
 PrivacyPolicy: "개인 정보 정책"
 ReasonMessage_BadIP: "이 페이지에 액세스은, 귀하의 IP 주소가 유효하지 않습니다 대한 거부되었습니다."
 ReasonMessage_Banned: "이 페이지에 액세스은, 당신의 IP 주소에서 원치 않는 작동을 위해 거부되었습니다."
@@ -39,7 +26,7 @@ Short_Malware: "멀웨어"
 Short_Proxy: "프록시"
 Short_RL: "제한 속도"
 Short_Spam: "스팸 위험"
-Support_Email: "이메일 지원 티켓을 제출 내용이나 지원 내용은 {ClickHereLink}하십시오 (프리앰블을 변경하지 마십시오)."
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "이것이 잘못되었다고 생각되면 {EmailAddr}에게 이메일을 보내 도움을 요청하십시오."
 click_here: "여기를 클릭"
 denied: "액세스 거부!"
@@ -68,4 +55,4 @@ recaptcha_message: "이 페이지에 대한 액세스를 회복하기 위해서�
 recaptcha_message_invisible: "대부분의 경우 페이지는, 페이지가 다시로드되어, 정상적인 액세스로 복원됩니다. 일부 경우에, CAPTCHA 챌린지를 완료해야 할 수도 있습니다."
 recaptcha_passed: "합격!"
 recaptcha_submit: "전송"
-request_removal: "(이것이 실수라고 생각하시면, <a href="%s">여기를 클릭하여</a> 삭제를 요청하십시오)."
+request_removal: "(이것이 실수라고 생각하시면, <a href=\"%s\">여기를 클릭하여</a> 삭제를 요청하십시오)."

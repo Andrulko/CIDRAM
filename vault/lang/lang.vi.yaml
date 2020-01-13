@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: Vietnamese language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "Tiếng Việt"
+---
+Local Name: "Engliss"
 Text Direction: "ltr"
 IntegerRule: "int1"
 FractionRule: "int1"
-
-Error_MissingRequire: "Các tập tin cần thiết bị thiếu! Không thể tiếp tục!"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "Không thể ghi vào cache! Xin kiểm tra quyền tập tin CHMOD của bạn!"
-MoreInfo: "Để biết thêm thông tin:"
+MoreInfo: "For more information"
 PrivacyPolicy: "Chính sách bảo mật"
 ReasonMessage_BadIP: "Truy cập của bạn vào trang này đã bị từ chối bởi vì bạn đã cố gắng truy cập trang này sử dụng một địa chỉ IP không hợp lệ."
 ReasonMessage_Banned: "Truy cập của bạn vào trang này đã bị từ chối do hành vi xấu trước đó từ địa chỉ IP của bạn."
@@ -39,7 +26,7 @@ Short_Malware: "Phần mềm độc hại"
 Short_Proxy: "Proxy"
 Short_RL: "Giới hạn tốc độ"
 Short_Spam: "Nguy cơ rác"
-Support_Email: "Nếu bạn tin chắc đây là lỗi, hoặc để tìm sự giúp đỡ, {ClickHereLink} để gửi một vé hỗ trợ email cho webmaster của trang web này (xin không thay đổi lời nói đầu hoặc dòng tiêu đề của email)."
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "Nếu bạn tin chắc đây là lỗi, gửi email đến {EmailAddr} để tìm kiếm sự trợ giúp."
 click_here: "nhấp vào đây"
 denied: "Truy cập đã bị từ chối!"
@@ -68,4 +55,4 @@ recaptcha_message: "Để lấy lại truy cập trang này, xin điền CAPTCHA
 recaptcha_message_invisible: "Đối với hầu hết người dùng, trang sẽ làm mới và khôi phục quyền truy cập thông thường. Trong một số trường hợp, bạn có thể được yêu cầu để hoàn thành một thách thức CAPTCHA."
 recaptcha_passed: "Thành công!"
 recaptcha_submit: "Gửi"
-request_removal: "(Nếu bạn tin rằng đây là một lỗi, <a href="%s">bấm vào đây</a> để yêu cầu xóa)."
+request_removal: "(Nếu bạn tin rằng đây là một lỗi, <a href=\"%s\">bấm vào đây</a> để yêu cầu xóa)."

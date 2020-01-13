@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: Japanese language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "日本語"
+---
+Local Name: "Engliss"
 Text Direction: "ltr"
 IntegerRule: "int1"
 FractionRule: "int1"
-
-Error_MissingRequire: "必要なファイルがありません！続けることはできません！"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "キャッシュは書き込み不可です！​あなたのＣＨＭＯＤをチェックしてください！"
-MoreInfo: "詳細については："
+MoreInfo: "For more information"
 PrivacyPolicy: "プライバシー・ポリシー"
 ReasonMessage_BadIP: "このページへのアクセスは、無効なＩＰのために拒否されました。"
 ReasonMessage_Banned: "このページへのアクセスは、あなたのＩＰアドレスからの望ましくない動作のために拒否されました。"
@@ -39,7 +26,7 @@ Short_Malware: "マルウェア"
 Short_Proxy: "プロキシ"
 Short_RL: "レート制限は達しました"
 Short_Spam: "スパム・リスク"
-Support_Email: "Ｅメールサポートチケットを送信については、​または、​支援については、​{ClickHereLink}してください（プリアンブルを変更しないでください）。"
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "これが間違っていると思われる場合は、{EmailAddr}に電子Ｅメールを送信して支援を求めてください。"
 click_here: "こちらをクリック"
 denied: "アクセス拒否！"
@@ -68,4 +55,4 @@ recaptcha_message: "このページへのアクセスを回復するためには
 recaptcha_message_invisible: "ほとんどの場合、ページがリロードされます、通常のアクセスを復元する必要があります。​場合によっては、CAPTCHAチャレンジを完了する必要があります。"
 recaptcha_passed: "合格！"
 recaptcha_submit: "送信"
-request_removal: "（これが間違いだと思われる場合は、<a href="%s">ここをクリック</a>して削除を依頼してください）。"
+request_removal: "（これが間違いだと思われる場合は、<a href=\"%s\">ここをクリック</a>して削除を依頼してください）。"

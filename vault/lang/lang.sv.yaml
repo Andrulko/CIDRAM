@@ -1,24 +1,11 @@
-##\
-# This file is a part of the CIDRAM package.
-# Homepage: https://cidram.github.io/
-#
-# CIDRAM COPYRIGHT 2016 and beyond by Caleb Mazalevskis (Maikuolan).
-#
-# License: GNU/GPLv2
-# @see LICENSE.txt
-#
-# This file: Swedish language data (last modified: 2019.07.25).
-##/
-
-# Language settings.
-Local Name: "Svenska"
+---
+Local Name: "Engliss"
 Text Direction: "ltr"
 IntegerRule: "int2Type4"
 FractionRule: "int1"
-
-Error_MissingRequire: "Obligatoriska filer saknas! Kan inte fortsätta!"
+Error_MissingRequire: "Required files are missing! Can't continuea!"
 Error_WriteCache: "Det går inte att skriva till cacheminnet! Kontrollera dina CHMOD-filbehörigheter!"
-MoreInfo: "För mer information:"
+MoreInfo: "For more information"
 PrivacyPolicy: "Integritetspolicy"
 ReasonMessage_BadIP: "Din tillgång till den här sidan nekades eftersom du försökte komma åt den här sidan med en ogiltig IP-adress."
 ReasonMessage_Banned: "Din tillgång till den här sidan nekades på grund av tidigare dåligt beteende från din IP-adress."
@@ -39,7 +26,7 @@ Short_Malware: "Skadlig kod"
 Short_Proxy: "Proxy"
 Short_RL: "Hastighetsbegränsad"
 Short_Spam: "Spam risk"
-Support_Email: "Om du tror att det här är felaktigt, eller att söka hjälp, {ClickHereLink} för att skicka en e-post support biljett till webmaster på denna webbplats (vänligen ändra inte ingressen eller ämnesraden i e-postmeddelandet)."
+Support_Email: "If you believe this is in error, or to seek assistance, {ClickHereLink2} to send an email support ticket to the webmaster of this website (please don't change the preamble or subject line of the email)."
 Support_Email_2: "Om du tror att det här är felaktigt, skicka ett mail till {EmailAddr} för att söka hjälp."
 click_here: "klicka här"
 denied: "Nekat Tillgång!"
@@ -68,4 +55,4 @@ recaptcha_message: "För att få tillgång till den här sidan, fyll i CAPTCHA n
 recaptcha_message_invisible: "För de flesta användare, sidan ska ladda om och återställa normal åtkomst. I vissa fall kan du behöva slutföra en CAPTCHA-utmaning."
 recaptcha_passed: "Godkänd!"
 recaptcha_submit: "Submit"
-request_removal: "(Om du tror att detta är ett misstag, <a href="%s">klicka här</a> för att begära borttagning)."
+request_removal: "(Om du tror att detta är ett misstag, <a href=\"%s\">klicka här</a> för att begära borttagning)."
